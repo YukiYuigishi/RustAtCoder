@@ -1,6 +1,4 @@
-use proconio::{input, fastout};
-
-#[fastout]
 fn main() {
-    todo!();
+    println!("いつも{}",252);
+    println!("AtCoder君");
 }

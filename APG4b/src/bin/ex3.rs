@@ -1,6 +1,3 @@
-use proconio::{input, fastout};
-
-#[fastout]
 fn main() {
-    todo!();
+    println!("{}", 100*(100+1)/2);
 }
